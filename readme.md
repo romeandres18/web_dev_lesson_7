@@ -1,4 +1,3 @@
 Lección 7 
 
-Ejercicios de git.
-...
+Ejercicios de git
